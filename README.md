@@ -9,3 +9,7 @@ As we know that water is a very valuable natural resource and therefore needs to
 # Built circuit 
 
 ![image](https://user-images.githubusercontent.com/73469122/126079736-95f40584-dd28-4bd5-84a9-ee27a2d2808c.png)
+
+# Working 
+
+![image](https://user-images.githubusercontent.com/73469122/126080210-b947db4c-a118-4511-ab73-a818f724f389.png)
